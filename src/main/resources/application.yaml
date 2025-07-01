@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: AIStrategyFactory
+
+server:
+  port: 8081
+
+ai:
+  deepseek:
+    api-key: deepseek api key
+    base-url: https://api.deepseek.com
+  qwen:
+    api-key: aliyun bailian ai api key # https://bailian.console.aliyun.com/
