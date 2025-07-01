@@ -6,6 +6,7 @@
 
 ## 项目依赖
 
+- JDK Version: 17
 - SpringBoot Version：3.3.6
 - [阿里云百炼大模型服务平台](https://bailian.console.aliyun.com/) ApiKey
 - [DeepSeek官网](https://www.deepseek.com/) ApiKey
